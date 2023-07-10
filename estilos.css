@@ -1,0 +1,51 @@
+.container{
+    display: flex; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: #202020;
+    color: aliceblue;
+}
+
+.perfil{
+  
+    max-width: 250px;
+    max-height: 200px;
+    width: auto;
+    height: auto;
+    border-radius: 50%;
+    margin: auto;
+    display: block;
+    
+}
+
+.dados{
+    width: 250px; 
+    margin-top: 100px;
+    margin-left: 10px;
+    background-color: #202020;
+    color: aliceblue; 
+}
+.dados h3{
+    text-align :center;
+    margin-top: 85px;
+}
+
+.corpo{
+    width: 750px; 
+    margin-left: 15px;
+    
+}
+a{
+    color: aliceblue;
+}
+svg{
+    max-width: 45px;
+    max-height: 25px;
+    color: aliceblue;
+}
+h1{
+    margin-top: 50px;
+    text-align :center;
+}
+h3{
+    margin-top: 50px;
+}
